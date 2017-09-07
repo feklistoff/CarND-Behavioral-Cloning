@@ -29,7 +29,7 @@ Files:
 * `model.py` - Python script used to create and train the model
 * `model.h5` - Saved model
 * `drive.py` - Python script to drive the car
-* `model_visual_helper` - Notebook visualizing building steps and data preprocessing pipeline
+* `model_visual_helper.ipynb` - Notebook visualizing building steps and data preprocessing pipeline
 * `track_*.mp4` - Video of a vehicle driving autonomously around the track for at least one full lap
 
 Additionally [here](#) is a youtube video showing results
