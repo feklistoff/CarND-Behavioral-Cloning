@@ -1,5 +1,5 @@
-# Behaviorial Cloning Project
-*Deep Learning and Convolutional Neural Networks.*
+# Behavioral Cloning Project
+***Deep Learning and Convolutional Neural Networks.***
 
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
@@ -7,7 +7,7 @@ Overview
 ---
 <img src="writeup_imgs/simulator.png" width="700px">
 
-In this project we use deep neural networks and convolutional neural networks to clone driving behavior. We train, validate and test a model using Keras. The model's output is a steering angle to an autonomous vehicle. 
+In this project I've used deep neural networks and convolutional neural networks to clone driving behavior. I've trained, validated and tested a model using Keras. The model's output is a steering angle to an autonomous vehicle. 
 
 [This](https://github.com/udacity/CarND-Behavioral-Cloning-P3) Udacity's repository contains starting files for the Behavioral Cloning Project.
 
@@ -24,6 +24,15 @@ The goals / steps of this project are the following:
 * Train and validate the model
 * Test that the model successfully drives around track one without leaving the road
 * Summarize the results with a written report
+
+Files:
+* `model.py` - Python script used to create and train the model
+* `model.h5` - Saved model
+* `drive.py` - Python script to drive the car
+* `model_visual_helper` - Notebook visualizing building steps and data preprocessing pipeline
+* `track_*.mp4` - Video of a vehicle driving autonomously around the track for at least one full lap
+
+Additionally [here](#) is a youtube video showing results
 
 This lab requires:
 
