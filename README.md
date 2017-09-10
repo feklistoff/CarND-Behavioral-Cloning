@@ -32,7 +32,7 @@ Files:
 * `model_visual_helper.ipynb` - Notebook visualizing building steps and data preprocessing pipeline
 * `track_*.mp4` - Video of a vehicle driving autonomously around the track for at least one full lap
 
-Additionally [here](#) is a youtube video showing results
+Additionally [here](https://youtu.be/SMrgJgHnUVM) is a youtube video showing results
 
 This lab requires:
 
